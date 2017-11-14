@@ -8,4 +8,4 @@ here's a link to an [external site](https://www.google.com)
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/motlicek/motlicek.github.io/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/motlicek/motlicek.github.io/blob/master/icon48.png "Logo Title Text 2"
